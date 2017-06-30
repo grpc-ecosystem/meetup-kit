@@ -8,18 +8,20 @@ gRPC is a modern, open source remote procedure call (RPC) framework that can run
 
 ## Content for Your Event
 
-### gRPC 101 Talk with slides with speaker notes
+### gRPC 101 Presentation
 
 | Resource  | Duration | Description |
 | --- | --- | --- |
 | [Talk](https://www.youtube.com/watch?v=UVsIfSfS6I4) | 15m | Course intro video. |
 | [Slides](https://docs.google.com/presentation/d/1dgI09a-_4dwBMLyqfwchvS6iXtbcISQPLAXL6gSYOcc/edit?usp=sharing) | n/a | Slides that go along with the talk. |
+| [Codelab](https://codelabs.developers.google.com/codelabs/cloud-grpc/index.html) | 45m | Codelab that attendees can complete in [Cloud Shell](https://cloud.google.com/shell/) | 
 
 ## Resources and community
 
-|     |     |
+| Resource | Links |
 | --- | --- |
 | gRPC Website | <ul><li>[grpc.io](http://www.grpc.io/)</li></ul>|
+| Codelab | <ul><li> [Building a gRPC service with Node.js](https://codelabs.developers.google.com/codelabs/cloud-grpc/index.html)</li><li>[Building a gRPC service with C#](https://codelabs.developers.google.com/codelabs/cloud-grpc-csharp/index.html)</li></ul> |
 | Learn More | <ul><li>[GitHub Source](https://github.com/grpc)</li><li>[Extended gRPC Ecosystem](https://github.com/grpc-ecosystem)</li><li>[Blog](http://www.grpc.io/blog/)</li><li>[Youtube Channel](https://www.youtube.com/channel/UCrnk1HWelWnYtF78YZX80fg)</li></ul> |
 | Ask Questions | <ul><li>[Gitter Chat](https://gitter.im/grpc/grpc)</li><li>[Google Group](https://groups.google.com/forum/#!forum/grpc-io)</li><li>[Stack Overflow](http://stackoverflow.com/tags/grpc/)</li></ul> |
 | Keep in Touch | <ul><li>[Twitter](https://twitter.com/grpcio)</li></ul>|
